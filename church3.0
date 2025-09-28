@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fresh Anointing Church</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">Fresh Anointing Church</div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#pastors">Pastors</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>Welcome to Fresh Anointing Church</h1>
+      <p>Empowered by the Spirit, Walking in Love</p>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      Fresh Anointing Church is a place of worship, community, and spiritual growth.
+      We are committed to sharing the love of Christ and building strong families
+      rooted in faith.
+    </p>
+  </section>
+
+  <section id="pastors">
+    <h2>Our Pastors</h2>
+    <div class="pastors">
+      <div class="pastor">
+        <img src="pastor-beau.jpg" alt="Pastor Beau Davis" />
+        <h3>Pastor Beau Davis</h3>
+        <p>Senior Pastor</p>
+      </div>
+      <div class="pastor">
+        <img src="pastor-carole.jpg" alt="Pastor Carole Davis" />
+        <h3>Pastor Carole Davis</h3>
+        <p>Co-Pastor</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="services">
+    <h2>Service Times</h2>
+    <ul>
+      <li>Sunday Worship – 10:00 AM</li>
+      <li>Wednesday Bible Study – 7:00 PM</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@freshanointingchurch.com">info@freshanointingchurch.com</a></p>
+    <p>Address: 123 Church Street, Your City, ST</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Fresh Anointing Church. All rights reserved.</p>
+  </footer>
+</body>
+</html>
